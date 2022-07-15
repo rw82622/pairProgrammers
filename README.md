@@ -1,4 +1,4 @@
-This is a program to help my Code Platoon Instructors quickly generate a random list
+This is a python program to help my Code Platoon Instructors quickly generate a random list
 of pair programming partners.
 
 Input:
